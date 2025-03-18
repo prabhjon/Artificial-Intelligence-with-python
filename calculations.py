@@ -1,0 +1,16 @@
+a = 10;
+b = 5;
+c = a +b;
+d = a - b;
+e = a * b;
+f = a / b;
+g = a ** b;
+h = a // b;
+i = a % b;
+print("addition:",c);
+print("substraction:",d);
+print("multiplication:",e);
+print("divide:",f);
+print("power:",g);
+print("modulus:",h);
+print("modulus:",i);
